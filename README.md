@@ -12,7 +12,7 @@ Google Books Search app that displays books based on user searches. Users can sa
 
 ## Deployed Site
 TBA
-![Home](client/src/assets/app.png))
+![Home](client/src/assets/app.png)
 
 ## Installation 
 NPM Install 
