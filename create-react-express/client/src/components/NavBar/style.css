@@ -1,0 +1,24 @@
+nav {
+    background-color: rgba(18, 12, 55, 0.564);
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white
+}
+ a:hover {
+    text-decoration: underline;
+    color: white
+}
+
+.navbar-brand {
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-item {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
