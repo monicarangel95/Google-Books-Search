@@ -1,0 +1,7 @@
+.jumbotron {
+    background-image: url(book.jpg);
+    background-position: 60px 200px; 
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
